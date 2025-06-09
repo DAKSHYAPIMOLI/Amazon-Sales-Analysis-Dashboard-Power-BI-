@@ -47,5 +47,6 @@ The dashboard delivers a comprehensive view of online retail performance. It cap
 Simulated Amazon e-commerce sales and returns dataset containing order records, customer segments, product categories, regional data, and return logs.
 
 7. Screenshot
-Show what the dashboard looks like.-
+Show what the dashboard looks like.-![Amazon-Dashboard](https://github.com/user-attachments/assets/f0b432fb-72fb-40c5-995b-a0c36e3085b2)
+
 Example: Dasboard preview: (https://github.com/DAKSHYAPIMOLI/Amazon-Sales-Analysis-Dashboard-Power-BI-/blob/main/Amazon-Dashboard.png)
